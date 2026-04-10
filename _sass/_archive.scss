@@ -41,6 +41,24 @@
   text-decoration: none;
 }
 
+.pub-list {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.pub-item {
+  margin-bottom: 1rem;
+}
+
+.pub-summary {
+  margin-top: 0.35rem;
+  color: var(--gray-2);
+}
+
+.pub-links {
+  margin-top: 0.25rem;
+}
+
 @media (max-width: $sm-width) {
   .taxonomies {
     grid-template-columns: repeat(2, 1fr);

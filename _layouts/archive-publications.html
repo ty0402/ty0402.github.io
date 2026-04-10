@@ -22,6 +22,9 @@ layout: default
           <div>
             <em>{{ p.venue }}</em>{% if p.year %}, {{ p.year }}{% endif %}
           </div>
+          {% if p.summary %}
+            <div class="pub-summary">{{ p.summary }}</div>
+          {% endif %}
 
           {% if p.links %}
             <div class="pub-links">

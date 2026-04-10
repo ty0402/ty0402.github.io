@@ -14,8 +14,11 @@
 }
 
 .avatar-image {
-  width: 30%;
+  width: clamp(140px, 30%, 220px);
+  aspect-ratio: 1 / 1;
   height: auto;
+  object-fit: cover;
+  object-position: center;
   border-radius: 50%;
   display: block;
   margin-right: auto;
@@ -85,6 +88,6 @@
 
 @media (max-width: $md-width) {
   .avatar-image {
-    width: 15%;
+    width: clamp(110px, 22%, 170px);
   }
 }
