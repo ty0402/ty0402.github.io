@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
+- Zhiyuan Honors Bachelor (致远荣誉学士), Shanghai Jiao Tong University.
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- AI Talents Pilot Class, Shanghai Jiao Tong University.
+
+- TODO: Add scholarships / awards with year.
