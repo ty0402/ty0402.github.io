@@ -56,3 +56,10 @@ You can find the full list on **[Publications](/publications/)**.
 - **Email:** [ty0402@gmail.com](mailto:ty0402@gmail.com)
 - **GitHub:** [https://github.com/ty0402](https://github.com/ty0402)
 - **Google Scholar:** TODO
+
+---
+
+## Honors
+
+- Zhiyuan Honors Program, Shanghai Jiao Tong University
+- AI Talents Pilot Class, Shanghai Jiao Tong University

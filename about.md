@@ -61,3 +61,10 @@ My research focuses on **general audio generation** and **audio-visual generatio
 - **UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities**  
   Xuenan Xu, Jiahao Mei, Zihao Zheng, Ye Tao, Zeyu Xie, Yaoyun Zhang, Haohe Liu, Yuning Wu, Ming Yan, Wen Wu, Chao Zhang, Mengyue Wu.  
   *arXiv preprint, 2025.* [arXiv](https://arxiv.org/abs/2509.24391) | [Project](https://wsntxxn.github.io/uniflow_audio/)
+
+---
+
+## Honors
+
+- Zhiyuan Honors Program, Shanghai Jiao Tong University
+- AI Talents Pilot Class, Shanghai Jiao Tong University
