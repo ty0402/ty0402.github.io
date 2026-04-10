@@ -1,0 +1,12 @@
+- title: Email
+  url: mailto:ty0402@gmail.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/ty0402
+  icon: fab fa-github
+- title: Google Scholar
+  url: TODO_GOOGLE_SCHOLAR_URL
+  icon: fas fa-graduation-cap
+- title: Resume
+  url: /resume/
+  icon: far fa-file-pdf

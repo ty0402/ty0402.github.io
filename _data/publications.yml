@@ -1,0 +1,17 @@
+- category: "Audio Editing"
+  title: "MMEdit: A Unified Framework for Multi-Type Audio Editing via Audio Language Model"
+  authors: "Ye Tao, Xuenan Xu, Wen Wu, Shuai Wang, Mengyue Wu, Chao Zhang"
+  venue: "arXiv preprint"
+  year: 2025
+  links:
+    arxiv: "https://arxiv.org/abs/2512.20339"
+    project: "https://ty0402.github.io/MMEditing/"
+
+- category: "Audio Generation"
+  title: "UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities"
+  authors: "Xuenan Xu, Jiahao Mei, Zihao Zheng, Ye Tao, Zeyu Xie, Yaoyun Zhang, Haohe Liu, Yuning Wu, Ming Yan, Wen Wu, Chao Zhang, Mengyue Wu"
+  venue: "arXiv preprint"
+  year: 2025
+  links:
+    arxiv: "https://arxiv.org/abs/2509.24391"
+    project: "https://wsntxxn.github.io/uniflow_audio/"
