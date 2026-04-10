@@ -1,6 +1,6 @@
 ### Research Intern
 **Shanghai AI Laboratory (Shanghai AI Lab)**  
-**TODO: Start Month Year – TODO: End Month Year / Present**
+**2025 - Present**
 
 Worked on multimodal audio generation and audio editing research, with a focus on controllable generation and efficient model design.
 
