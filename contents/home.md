@@ -1,5 +1,3 @@
-[![GitHub](https://img.shields.io/badge/GitHub-ty0402-181717?logo=github)](https://github.com/ty0402)
-
 I am Tao Ye, an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, enrolled in the **AI Talents Pilot Class** and the **Zhiyuan Honors Program**. I am a member of **X-LANCE Lab**.
 
 I will join the **Nanjing University (NJU) Speech Group** as a graduate student, advised by [Prof. Shuai Wang](https://shuaiwang-nju.github.io/).

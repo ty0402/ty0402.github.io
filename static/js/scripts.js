@@ -5,27 +5,14 @@ const section_names = ['home', 'awards', 'experience', 'publications'];
 
 window.addEventListener('DOMContentLoaded', event => {
 
-    // Activate Bootstrap scrollspy on the main nav element
+    // Keep compatibility with layouts that may include Bootstrap nav.
     const mainNav = document.body.querySelector('#mainNav');
-    if (mainNav) {
+    if (mainNav && window.bootstrap) {
         new bootstrap.ScrollSpy(document.body, {
             target: '#mainNav',
             offset: 74,
         });
     };
-
-    // Collapse responsive navbar when toggler is visible
-    const navbarToggler = document.body.querySelector('.navbar-toggler');
-    const responsiveNavItems = [].slice.call(
-        document.querySelectorAll('#navbarResponsive .nav-link')
-    );
-    responsiveNavItems.map(function (responsiveNavItem) {
-        responsiveNavItem.addEventListener('click', () => {
-            if (window.getComputedStyle(navbarToggler).display !== 'none') {
-                navbarToggler.click();
-            }
-        });
-    });
 
 
     // Yaml
@@ -54,8 +41,9 @@ window.addEventListener('DOMContentLoaded', event => {
                 const html = marked.parse(markdown);
                 document.getElementById(name + '-md').innerHTML = html;
             }).then(() => {
-                // MathJax
-                MathJax.typeset();
+                if (window.MathJax && typeof window.MathJax.typeset === 'function') {
+                    window.MathJax.typeset();
+                }
             })
             .catch(error => console.log(error));
     })
