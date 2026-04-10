@@ -1,11 +1,11 @@
 # Setup
 title: Tao Ye
 description: >
-  SJTU X-LANCE B.Eng. (2022-2026). Incoming M.S. student at
-  Nanjing University Speech Group (2026-2029), advised by
-  <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>. Zhiyuan Honors Program.
+  SJTU X-LANCE B.Eng. (2022-2026).<br/>
+  Incoming M.S. student at Nanjing University Speech Group (2026-2029), advised by
+  <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
 url: https://ty0402.github.io
-avatar: /avatar.jpeg
+avatar: /avatar-2026.jpg
 paginate: 5
 permalink: pretty
 cover_image:
@@ -34,7 +34,7 @@ exclude:
 twitter:
   username: ty0402
   card: summary
-logo: avatar.jpeg
+logo: avatar-2026.jpg
 social:
   name: Tao Ye
   links:
