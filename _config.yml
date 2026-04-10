@@ -8,7 +8,7 @@ url: https://ty0402.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /moutain.jpg
+cover_image:
 
 # Gems
 plugins:
