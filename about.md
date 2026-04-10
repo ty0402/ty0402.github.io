@@ -5,7 +5,7 @@ title: About me
 
 ## Short Bio
 
-I am **Tao Ye**, currently an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, in the **AI Talents Pilot Class** and **Zhiyuan Honors Program**. I work with **[X-LANCE Lab](https://x-lance.sjtu.edu.cn/)**.
+I am **Tao Ye**, currently an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, in the **AI Talents Pilot Class** and **Zhiyuan Honors Program**.
 
 I will join the **Nanjing University Speech Group** as an M.S. student (**2026-2029**), advised by **[Prof. Shuai Wang](https://shuaiwang-nju.github.io/)**.
 
@@ -44,9 +44,11 @@ My research focuses on **general audio generation** and **audio-visual generatio
 
 ## Experience
 
-- **Research Intern, Shanghai AI Laboratory (Shanghai AI Lab)**, **2025-Present**
-  - Research on multimodal audio generation and audio editing
-  - Model development, experiment design, and evaluation on audio-centric multimodal tasks
+- **Research Intern, Shanghai AI Laboratory (Speech Group)**, **Jun 2025 - Dec 2026**  
+  Supervised by **Prof. Chao Zhang**.
+
+- **Research Intern, Video Rebirth**, **Dec 2026 - Present**  
+  Working on unified audio-visual generation and VTA tasks.
 
 ---
 

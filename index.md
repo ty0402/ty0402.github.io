@@ -5,7 +5,7 @@ permalink: /
 lang: en
 ---
 
-I am **Tao Ye**, an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, enrolled in the **AI Talents Pilot Class** and the **Zhiyuan Honors Program**. I am a member of **[X-LANCE Lab](https://x-lance.sjtu.edu.cn/)**.
+I am **Tao Ye**, an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, enrolled in the **AI Talents Pilot Class** and the **Zhiyuan Honors Program**.
 
 I am an incoming M.S. student at the **Nanjing University Speech Group (2026-2029)**, advised by **[Prof. Shuai Wang](https://shuaiwang-nju.github.io/)**.
 
@@ -31,8 +31,11 @@ I am an incoming M.S. student at the **Nanjing University Speech Group (2026-202
 
 ## Experience
 
-- **Research Intern, Shanghai AI Laboratory (Shanghai AI Lab)**, **2025-Present**  
-  Working on multimodal audio generation and audio editing research, with a focus on controllable generation and efficient model design.
+- **Research Intern, Shanghai AI Laboratory (Speech Group)**, **Jun 2025 - Dec 2026**  
+  Supervised by **Prof. Chao Zhang**.
+
+- **Research Intern, Video Rebirth**, **Dec 2026 - Present**  
+  Working on unified audio-visual generation and VTA tasks.
 
 ---
 
