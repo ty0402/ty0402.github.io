@@ -14,8 +14,8 @@ I am an incoming M.S. student at the **Nanjing University Speech Group (2026-202
 ## Research Interests
 
 - General audio generation
-- Audio-visual generation
-- Controllable multimodal audio editing
+- Dialogue systems
+- Spoken language models
 
 ---
 

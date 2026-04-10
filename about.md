@@ -37,8 +37,8 @@ My research focuses on **general audio generation** and **audio-visual generatio
 ## Research Interests
 
 - General audio generation
-- Audio-visual generation
-- Controllable multimodal audio editing
+- Dialogue systems
+- Spoken language models
 
 ---
 
