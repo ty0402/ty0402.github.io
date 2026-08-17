@@ -1,8 +1,21 @@
+- category: "Audio-Visual Generation"
+  title: "Foley-Omni: A Unified Multimodal Generation Model from Task-Level Audio Synthesis to Complete Video Soundtrack Generation"
+  authors: "Ye Tao, Lupeng Liu, Xuenan Xu, Jiasun Feng, Jiarui Wang, Ying Qin, Shuiyang Mao, Wei Liu, Shuai Wang"
+  venue: "arXiv preprint"
+  year: 2026
+  first_author: true
+  summary: "A unified multimodal model that jointly generates speech, sound effects, and music for complete video soundtrack generation, with V2ST-Bench for reproducible evaluation."
+  links:
+    arxiv: "https://arxiv.org/abs/2606.03672"
+    project: "https://ty0402.github.io/Foley-omni-Web/"
+    code: "https://github.com/NJU-Speech/Foley-Omni"
+
 - category: "Audio Editing"
   title: "MMEdit: A Unified Framework for Multi-Type Audio Editing via Audio Language Model"
-  authors: "Ye Tao, Xuenan Xu, Wen Wu, Shuai Wang, Mengyue Wu, Chao Zhang"
+  authors: "Ye Tao, Wen Wu, Chao Zhang, Shuai Wang, Mengyue Wu, Xuenan Xu"
   venue: "ICME 2026 (accepted)"
   year: 2026
+  first_author: true
   summary: "A unified audio editing framework covering addition, replacement, removal, reordering, and attribute modification with strong instruction following and content preservation."
   links:
     arxiv: "https://arxiv.org/abs/2512.20339"
@@ -13,6 +26,7 @@
   authors: "Xuenan Xu, Jiahao Mei, Zihao Zheng, Ye Tao, Zeyu Xie, Yaoyun Zhang, Haohe Liu, Yuning Wu, Ming Yan, Wen Wu, Chao Zhang, Mengyue Wu"
   venue: "arXiv preprint"
   year: 2025
+  first_author: false
   summary: "A unified flow-matching framework for omni-modal audio generation across time-aligned and non-time-aligned tasks with strong parameter efficiency."
   links:
     arxiv: "https://arxiv.org/abs/2509.24391"

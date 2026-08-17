@@ -1,14 +1,16 @@
 # Setup
 title: Tao Ye
 description: >
-  SJTU X-LANCE B.Eng. (2022-2026).<br/>
-  Incoming M.S. student at Nanjing University Speech Group (2026-2029), advised by
-  <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
+  M.S. student at Nanjing University Speech Group (2026-2029), advised by
+  <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.<br/>
+  B.Eng. in Artificial Intelligence, SJTU (2022-2026).
 url: https://ty0402.github.io
 avatar: /avatar-2026.jpg
 paginate: 5
 permalink: pretty
 cover_image:
+cover_bg_color: rgb(28, 52, 56)
+cover_color: rgb(248, 250, 249)
 
 # Gems
 plugins:
@@ -39,6 +41,7 @@ social:
   name: Tao Ye
   links:
     - https://github.com/ty0402
+    - https://scholar.google.com/citations?user=VEOvtSkAAAAJ&hl=en
 google_site_verification: ""
 lang: en
 

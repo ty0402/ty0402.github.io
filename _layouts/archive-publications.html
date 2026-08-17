@@ -2,10 +2,9 @@
 layout: default
 ---
 
-<div class="page">
+<div class="page profile">
   <h1 class="page-title">{{ page.title }}</h1>
-
-  <p><small>* indicates equal contribution.</small></p>
+  <p class="section-note">* indicates equal contribution. <strong>Ye Tao</strong> is highlighted.</p>
 
   {% assign pubs = site.data.publications %}
   {% assign groups = pubs | group_by: "category" %}
@@ -14,34 +13,34 @@ layout: default
     <h2>{{ g.name }}</h2>
     {% assign items = g.items | sort: "year" | reverse %}
 
-    <ul class="pub-list">
+    <ul class="pub-cards">
       {% for p in items %}
-        <li class="pub-item">
-          <div><strong>{{ p.title }}</strong></div>
-          <div>{{ p.authors }}</div>
-          <div>
-            <em>{{ p.venue }}</em>{% if p.year %}, {{ p.year }}{% endif %}
+        {% assign highlighted_authors = p.authors | replace: "Ye Tao", "<strong>Ye Tao</strong>" %}
+        <li class="pub-card">
+          <div class="pub-card-top">
+            {% if p.first_author %}
+              <span class="pub-badge">First author</span>
+            {% endif %}
+            <span class="pub-venue">{{ p.venue }}{% if p.year %}, {{ p.year }}{% endif %}</span>
           </div>
+          <div class="pub-card-title">{{ p.title }}</div>
+          <div class="pub-card-authors">{{ highlighted_authors }}</div>
           {% if p.summary %}
-            <div class="pub-summary">{{ p.summary }}</div>
+            <p class="pub-card-summary">{{ p.summary }}</p>
           {% endif %}
-
           {% if p.links %}
             <div class="pub-links">
               {% if p.links.arxiv %}
                 <a href="{{ p.links.arxiv }}" target="_blank" rel="noopener">arXiv</a>
               {% endif %}
-              {% if p.links.doi %}
-                {% if p.links.arxiv %} · {% endif %}
-                <a href="{{ p.links.doi }}" target="_blank" rel="noopener">DOI</a>
+              {% if p.links.project %}
+                <a href="{{ p.links.project }}" target="_blank" rel="noopener">Project</a>
               {% endif %}
               {% if p.links.code %}
-                {% if p.links.arxiv or p.links.doi %} · {% endif %}
                 <a href="{{ p.links.code }}" target="_blank" rel="noopener">Code</a>
               {% endif %}
-              {% if p.links.project %}
-                {% if p.links.arxiv or p.links.doi or p.links.code %} · {% endif %}
-                <a href="{{ p.links.project }}" target="_blank" rel="noopener">Project</a>
+              {% if p.links.doi %}
+                <a href="{{ p.links.doi }}" target="_blank" rel="noopener">DOI</a>
               {% endif %}
             </div>
           {% endif %}
