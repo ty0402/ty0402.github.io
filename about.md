@@ -5,7 +5,7 @@ title: About me
 
 <div class="profile">
   <p class="profile-lead">
-    I am <strong>Tao Ye</strong>, an M.S. student at the
+    I am <strong>Tao Ye (陶也)</strong>, an M.S. student at the
     <strong>Nanjing University Speech Group</strong> (2026–2029),
     advised by <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
     I received my B.Eng. in Artificial Intelligence from
@@ -20,7 +20,7 @@ title: About me
   <section class="profile-section">
     <h2>Basic Information</h2>
     <ul class="contact-list">
-      <li><span>Name</span> Tao Ye</li>
+      <li><span>Name</span> Tao Ye (陶也)</li>
       <li><span>Email</span> <a href="mailto:ty0402@gmail.com">ty0402@gmail.com</a></li>
       <li><span>GitHub</span> <a href="https://github.com/ty0402" target="_blank" rel="noopener">github.com/ty0402</a></li>
       <li><span>Scholar</span> <a href="https://scholar.google.com/citations?user=VEOvtSkAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a></li>
@@ -34,7 +34,7 @@ title: About me
         <div class="timeline-meta">2026 – 2029</div>
         <div class="timeline-body">
           <div class="timeline-title">Nanjing University (NJU)</div>
-          <div class="timeline-role">M.S. Student, Speech Group</div>
+          <div class="timeline-role">M.S. in Artificial Intelligence</div>
           <p>Advisor: <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.</p>
         </div>
       </li>

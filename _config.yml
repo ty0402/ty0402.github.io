@@ -1,7 +1,7 @@
 # Setup
-title: Tao Ye
+title: Tao Ye (陶也)
 description: >
-  M.S. student at Nanjing University Speech Group (2026-2029), advised by
+  M.S. student in Artificial Intelligence at Nanjing University Speech Group (2026-2029), advised by
   <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.<br/>
   B.Eng. in Artificial Intelligence, SJTU (2022-2026).
 url: https://ty0402.github.io
@@ -38,7 +38,7 @@ twitter:
   card: summary
 logo: avatar-2026.jpg
 social:
-  name: Tao Ye
+  name: Tao Ye (陶也)
   links:
     - https://github.com/ty0402
     - https://scholar.google.com/citations?user=VEOvtSkAAAAJ&hl=en
@@ -50,6 +50,6 @@ sass:
   style: :compressed
 
 author:
-  name: Tao Ye
+  name: Tao Ye (陶也)
   url: https://github.com/ty0402/
   email: ty0402@gmail.com

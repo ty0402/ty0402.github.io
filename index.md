@@ -7,7 +7,7 @@ lang: en
 
 <div class="profile">
   <p class="profile-lead">
-    I am <strong>Tao Ye</strong>, an M.S. student at the
+    I am <strong>Tao Ye (陶也)</strong>, an M.S. student at the
     <strong>Nanjing University Speech Group</strong> (2026–2029),
     advised by <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
     I received my B.Eng. in Artificial Intelligence from
@@ -32,7 +32,7 @@ lang: en
         <div class="timeline-meta">2026 – 2029</div>
         <div class="timeline-body">
           <div class="timeline-title">Nanjing University (NJU)</div>
-          <div class="timeline-role">M.S. in Intelligence Science and Technology</div>
+          <div class="timeline-role">M.S. in Artificial Intelligence</div>
           <p>Speech Group, advised by <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.</p>
         </div>
       </li>
